@@ -37,4 +37,30 @@ Here are some ideas to get you started:
 <a href="https://github.com/hiashutoshsingh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sFisher611&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/>
 
+     ## Languages & Frameworks :wrench:
+<p align="center">
+	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+</p>
+
+<br/>
+
+## Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/Soumyadeep21"><img height=50 src="./images/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/soumyadeep-sinha-80362416b/"><img height=50 src="./images/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/s.o.u.m.y.a.d.e.e.p/"><img height=50 src="./images/instagram.png" alt="instagram"/></a>
+	<a href="https://twitter.com/IISoumyadeepII"><img height=50 src="./images/twitter.png" alt="Twitter"/></a>
+    <a href="https://discordapp.com/users/299846223609987072/"><img height=50 src="./images/discord.png" alt="Discord"/></a>
+   
+</p>
+
+<br/>
 
