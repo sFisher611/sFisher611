@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/sFisher611?logo=GitHub&style=for-the-badge)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 <a href="https://github.com/hiashutoshsingh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sFisher611&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/>
@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-## Let's Connect :coffee:
-<p align="center">
+<!-- ## Let's Connect :coffee: -->
+<!-- <p align="center">
 	<a href="https://github.com/Soumyadeep21"><img height=50 src="./images/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/soumyadeep-sinha-80362416b/"><img height=50 src="./images/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/s.o.u.m.y.a.d.e.e.p/"><img height=50 src="./images/instagram.png" alt="instagram"/></a>
@@ -59,5 +59,5 @@ Here are some ideas to get you started:
    
 </p>
 
-<br/>
+<br/> -->
 
