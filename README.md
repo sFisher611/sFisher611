@@ -29,3 +29,4 @@ Here are some ideas to get you started:
      <b>⚡ Fun fact:  </b> I honestly think mochas are the best beverage mankind has created.
    </li>
 </ul>
+![GitHub followers](https://img.shields.io/github/followers/sFisher611?logo=GitHub&style=for-the-badge)
