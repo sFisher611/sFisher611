@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 </ul>
 
 ![GitHub followers](https://img.shields.io/github/followers/sFisher611?logo=GitHub&style=for-the-badge)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
