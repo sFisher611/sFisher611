@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/sFisher611?logo=GitHub&style=for-the-badge)
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-
+<!-- 
 <a href="https://github.com/sFisher611">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sFisher611&show_icons=true&theme=gotham&line_height=27" alt=" github stats"/>
 
-## Languages & Frameworks :wrench: -->
+## Languages & Frameworks :wrench: --> -->
 <p align="center">
 	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
