@@ -63,5 +63,5 @@ Here are some ideas to get you started:
 
 [![bonfire](https://github.com/RafaelBarbosatec/bonfire/blob/master/media/bonfire.gif)](https://bonfire-engine.github.io/)
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Vachaaaaaaaaaaach;Xushkelibsiz+mening+profilimga!;Bu+yerda+sizga+nima+kerak!&font=Fira%20Code&color=%23D62F&center=true&width=290&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Vachaaaaaaaaaaach;Xushkelibsiz;mening+profilimga!;Bu+yerda+sizga;nima+kerak!&font=Fira%20Code&color=%23D62F&center=true&width=290&height=50">
 </p>
