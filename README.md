@@ -13,10 +13,10 @@
 [![bonfire](https://github.com/RafaelBarbosatec/bonfire/blob/master/media/bonfire.gif)](https://bonfire-engine.github.io/)
 
 
-<img src="https://github.com/user-attachments/assets/eec063bd-61d2-40ec-b99c-d830d5ed6e5d" alt="Frame 1" width="120" style="display:inline-block;vertical-align:middle;">
 <a href="https://play.google.com/store/apps/details?id=com.widget.widget_showcase" style="display:inline-block;vertical-align:middle;">
-  <img src="https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png" alt="Google Play" width="120">
+  <img src="https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png" alt="Google Play" width="500" style="display:inline-block;vertical-align:middle;">
 </a>
+<img src="https://github.com/user-attachments/assets/eec063bd-61d2-40ec-b99c-d830d5ed6e5d" alt="Frame 1" width="500" style="display:inline-block;vertical-align:middle;">
 
 What's in the program?
 
