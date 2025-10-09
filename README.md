@@ -23,7 +23,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.rocket_blaster.uz" style="display:inline-block;vertical-align:middle;">
     <img src="https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png" alt="Google Play" width="220" style="display:inline-block;vertical-align:middle;"/>
   </a>
-   <img src="[assets/app_logo.png](https://github.com/user-attachments/assets/eec063bd-61d2-40ec-b99c-d830d5ed6e5d)" alt="RocketBlast Logo" width="200" style="display:inline-block;vertical-align:middle;"/>
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/c7161aee-513f-427f-861f-ff940ab2ec25" />
 </p>
 What's in the program?
 
