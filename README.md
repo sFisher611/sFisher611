@@ -12,11 +12,12 @@
 
 [![bonfire](https://github.com/RafaelBarbosatec/bonfire/blob/master/media/bonfire.gif)](https://bonfire-engine.github.io/)
 
-
+<p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.widget.widget_showcase" style="display:inline-block;vertical-align:middle;">
   <img src="https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png" alt="Google Play" width="500" style="display:inline-block;vertical-align:middle;">
 </a>
 <img src="https://github.com/user-attachments/assets/eec063bd-61d2-40ec-b99c-d830d5ed6e5d" alt="Frame 1" width="500" style="display:inline-block;vertical-align:middle;">
+</p>
 <p align="center">
   <img src="assets/app_logo.png" alt="RocketBlast Logo" width="180" style="display:inline-block;vertical-align:middle;"/>
   <a href="https://play.google.com/store/apps/details?id=com.rocket_blaster.uz" style="display:inline-block;vertical-align:middle;">
