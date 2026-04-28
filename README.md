@@ -11,6 +11,7 @@
 <br/>
 
 [![bonfire](https://github.com/RafaelBarbosatec/bonfire/blob/master/media/bonfire.gif)](https://bonfire-engine.github.io/)
+[![bonfire](https://github.com/RafaelBarbosatec/bonfire/blob/master/media/bonfire.gif)](https://bonfire-engine.github.io/)
 
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.widget.widget_showcase" style="display:inline-block;vertical-align:middle;">
