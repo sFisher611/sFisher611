@@ -35,5 +35,7 @@ What's in the program?
 - [x] 100+ screens with animations
 - [x] Full code examples for learning
 - [x] Free to use
-
+<a>
 [![Flutter Template](https://img.shields.io/badge/My_Template-Repository-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sFisher611/my_flutter_template)
+[![Text->json](https://img.shields.io/badge/My_Template-Repository-24292e?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/sFisher611/my_flutter_template](https://sfisher611.github.io/book-text--json/))
+</a>
